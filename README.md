@@ -6,7 +6,7 @@ SPlRlT-SER-BOT
 𝙼𝙰𝙺𝙴𝙳 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 SPlRlT
 
 ##
-<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
+<a href="><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="SPlRlT.gif" alt="GIF" width="150" height="150"/>
 </p>
@@ -19,7 +19,7 @@ SPlRlT-SER-BOT
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="SPlRlT" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
@@ -28,7 +28,7 @@ SPlRlT-SER-BOT
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href=SPlRlT-usrbot">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -39,7 +39,7 @@ SPlRlT-SER-BOT
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
+<a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
