@@ -8,12 +8,12 @@ SPlRlT-SER-BOT
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
+        <img src="SPlRlT.gif" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
 
-## [![SPlRlT-SER-BOT](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![SPlRlT-SER-BOT](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+SPlRlT-SER+WA+Bot+repo;Created+by+SPlRlT;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
